@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">P05_MyModules</string>
+    <string name="title">MODULES</string>
+    <string name="c346">C346 Android Programming</string>
+    <string name="c203">C203 Web App Development in PHP</string>
+    <string name="c206">C206 Software Development Process</string>
+    <string name="back">BACK</string>
+    <string name="tv">Output</string>
+</resources>
